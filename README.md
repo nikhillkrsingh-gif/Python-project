@@ -6,7 +6,6 @@ A simple Student Management System developed in Python using a terminal-based in
 - Add new student records
 - View all students
 - Search for a student
-- Update student details
 - Delete student records
 - User-friendly terminal interface
 
